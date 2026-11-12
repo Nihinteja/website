@@ -1,0 +1,16 @@
+# =============================================================================
+# AI-Based Emotion Detection System - Requirements
+# Python 3.11+ Compatible
+# =============================================================================
+
+streamlit>=1.30.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+pillow>=9.5.0
+h5py>=3.8.0
+fer>=22.0.0
